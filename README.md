@@ -1,6 +1,6 @@
 # CocoaScript
 
-CocoaScript: Made by beginners, for beginners.
+CocoaScript: The coding language made by beginners, for beginners.
 
 CocoaScript is a coding language made for beginners. It was created for one big reason: to create scripts fast and easily.
 
