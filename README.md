@@ -1,5 +1,7 @@
 # CocoaScript
 
+"WHERE ARE THE FILES???" you might be wondering. Due to some problems, i can't publish it yet.
+
 CocoaScript: The coding language made by beginners, for beginners.
 
 CocoaScript is a coding language made for beginners. It was created for one big reason: to create scripts fast and easily.
